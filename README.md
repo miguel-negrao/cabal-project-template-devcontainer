@@ -1,4 +1,4 @@
-this template uses only cabal
+Template for haskell project using cabal
 
 Current version of GHC is 9.8.2
 
